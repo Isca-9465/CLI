@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E9\u05E0\u05D4 \u05D2\\\u05E7\u05D5\u05E8\u05E1 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\CLI\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE82ECA-CAE9-4521-A158-66F67A204C41}|ConsoleApp1\\fib.csproj|e:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E9\u05E0\u05D4 \u05D2\\\u05E7\u05D5\u05E8\u05E1 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\cli\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE82ECA-CAE9-4521-A158-66F67A204C41}|ConsoleApp1\\fib.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE82ECA-CAE9-4521-A158-66F67A204C41}|ConsoleApp1\\fib.csproj|e:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E9\u05E0\u05D4 \u05D2\\\u05E7\u05D5\u05E8\u05E1 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\cli\\consoleapp1\\consoleapp1\\fib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DE82ECA-CAE9-4521-A158-66F67A204C41}|ConsoleApp1\\fib.csproj|solutionrelative:consoleapp1\\fib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fib.csproj",
+              "DocumentMoniker": "E:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E9\u05E0\u05D4 \u05D2\\\u05E7\u05D5\u05E8\u05E1 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\CLI\\ConsoleApp1\\ConsoleApp1\\fib.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\fib.csproj",
+              "ToolTip": "E:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E9\u05E0\u05D4 \u05D2\\\u05E7\u05D5\u05E8\u05E1 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\CLI\\ConsoleApp1\\ConsoleApp1\\fib.csproj",
+              "RelativeToolTip": "ConsoleApp1\\fib.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T15:50:04.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E9\u05E0\u05D4 \u05D2\\\u05E7\u05D5\u05E8\u05E1 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\CLI\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05DE\u05E1\u05DC\u05D5\u05DC\\\u05E9\u05E0\u05D4 \u05D2\\\u05E7\u05D5\u05E8\u05E1 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\CLI\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAwG4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:49:56.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
